@@ -1,4 +1,3 @@
-package Master100;
 import java.util.Stack;
 
 public class ValidParenthesis {

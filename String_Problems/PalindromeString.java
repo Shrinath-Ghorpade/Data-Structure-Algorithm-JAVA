@@ -1,4 +1,4 @@
-package StringQues;
+package String_Problems;
 public class PalindromeString {
     public static void main(String[] args) {
         // String str="A man, a plan, a canal: Panama";

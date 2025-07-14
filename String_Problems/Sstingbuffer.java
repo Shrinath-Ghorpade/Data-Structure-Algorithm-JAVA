@@ -1,4 +1,4 @@
-package StringQues;
+package String_Problems;
 
 public class Sstingbuffer {
     public static void main(String[] args) {

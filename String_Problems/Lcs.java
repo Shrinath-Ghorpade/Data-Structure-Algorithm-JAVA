@@ -1,4 +1,4 @@
-package StringQues;
+package String_Problems;
 
 public class Lcs {
     public static void main(String[] args) {

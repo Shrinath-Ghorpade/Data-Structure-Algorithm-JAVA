@@ -1,4 +1,3 @@
-package Master100;
 
 public class TwoSum {
    public static int[] twoSum(int[] arr, int target){

@@ -1,4 +1,4 @@
-package StringQues;
+package String_Problems;
 import java.util.*;
 public class VowelsSwapping {
     public static void main(String[] args) {

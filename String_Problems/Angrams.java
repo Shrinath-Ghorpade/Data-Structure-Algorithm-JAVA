@@ -1,4 +1,4 @@
-package StringQues;
+package String_Problems;
 
 import java.util.Arrays;
 
