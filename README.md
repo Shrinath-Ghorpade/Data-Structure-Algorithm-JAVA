@@ -30,4 +30,4 @@ Welcome to the **Data Structures and Algorithms (DSA)** repository! This project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shrinath-Ghorpade/Data-Structure-Algorithms-JAVA.git
+   git clone https://github.com/Shrinath-Ghorpade/Data-Structure-Algorithm-JAVA.git
